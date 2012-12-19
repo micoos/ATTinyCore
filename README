@@ -1,5 +1,8 @@
 BETA Arduino 1.0+ core for ATTiny's
 
+The core along with the PCREL patch files can be downloaded in ZIP format here:
+https://github.com/TCWORLD/ATTinyCore/tree/master/Downloads
+
 Note: Beta testers are needed to try out the core and find any bugs!
 
 Based on the arduino-tiny core here: http://code.google.com/p/arduino-tiny/
